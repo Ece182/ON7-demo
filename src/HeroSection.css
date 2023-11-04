@@ -1,0 +1,34 @@
+.hero {
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 100px 0; /* Adjust padding as needed */
+    font-family: 'Your_Custom_Font', sans-serif; /* Replace 'Your_Custom_Font' with your chosen font */
+  }
+  
+  .hero-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .hero h1 {
+    font-size: 2.5em; /* Adjust font size as needed */
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+  
+  .hero p {
+    font-size: 1.2em; /* Adjust font size as needed */
+    margin-bottom: 30px;
+  }
+  
+  .btn-primary {
+        background-color: #007bff; /* Set the background color */
+        color: #fff; /* Set the text color */
+        padding: 10px 20px; /* Set padding */
+        font-size: 1em; /* Set font size */
+        border: none; /* Remove border */
+        border-radius: 5px; 
+      }
+      

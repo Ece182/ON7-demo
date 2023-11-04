@@ -1,0 +1,13 @@
+.footer {
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 100px 0;
+    font-family: 'Your_Custom_Font', sans-serif;
+  
+  .footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+}
